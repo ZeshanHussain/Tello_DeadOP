@@ -7,5 +7,8 @@ The DJI Tello Drone is a lightweight quadcopter designed for Developers. Many op
 
 
 
-https://github.com/ZeshanHussain/Tello_DeadOP/assets/88027437/53ac1749-4214-497d-b796-90fec602ee00
+https://github.com/ZeshanHussain/Tello_DeadOP/assets/88027437/f326e8b3-5cc5-4662-808f-45f230026ed9
+
+
+
 
